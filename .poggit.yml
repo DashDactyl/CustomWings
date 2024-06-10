@@ -2,7 +2,6 @@
 build-by-default: true
 branches:
 - stable
-- develop
 projects:
   CustomWings:
     path: ""
